@@ -7,8 +7,8 @@ DATA_PATH = "./data/"
 
 ## 1) Connect to craftai api
 config = {
-    "owner": CRAFT_TOKEN,
-    "token": CRAFT_OWNER,
+    "owner": CRAFT_OWNER,
+    "token": CRAFT_TOKEN,
 }
 client = craftai.CraftAIClient(config)
 
