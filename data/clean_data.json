@@ -1,0 +1,778 @@
+[
+    {
+        "timestamp": 1485385200.0,
+        "diff": {
+            "paces": 8333.0,
+            "distance": 6942.444,
+            "deepsleep": 12960.0
+        }
+    },
+    {
+        "timestamp": 1485298800.0,
+        "diff": {
+            "paces": 9664.0,
+            "distance": 8224.44,
+            "deepsleep": 10020.0
+        }
+    },
+    {
+        "timestamp": 1485212400.0,
+        "diff": {
+            "paces": 10809.0,
+            "distance": 9162.698,
+            "deepsleep": 6240.0
+        }
+    },
+    {
+        "timestamp": 1485126000.0,
+        "diff": {
+            "paces": 6963.0,
+            "distance": 5844.25,
+            "deepsleep": 9120.0
+        }
+    },
+    {
+        "timestamp": 1485039600.0,
+        "diff": {
+            "paces": 3910.0,
+            "distance": 3283.649,
+            "deepsleep": 8340.0
+        }
+    },
+    {
+        "timestamp": 1484953200.0,
+        "diff": {
+            "paces": 7767.0,
+            "distance": 6493.181,
+            "deepsleep": 13620.0
+        }
+    },
+    {
+        "timestamp": 1484866800.0,
+        "diff": {
+            "paces": 9475.0,
+            "distance": 7976.41,
+            "deepsleep": 15180.0
+        }
+    },
+    {
+        "timestamp": 1484780400.0,
+        "diff": {
+            "paces": 8753.0,
+            "distance": 7371.087,
+            "deepsleep": 8700.0
+        }
+    },
+    {
+        "timestamp": 1484694000.0,
+        "diff": {
+            "paces": 8424.0,
+            "distance": 7147.529,
+            "deepsleep": 11220.0
+        }
+    },
+    {
+        "timestamp": 1484607600.0,
+        "diff": {
+            "paces": 11426.0,
+            "distance": 9474.93,
+            "deepsleep": 12180.0
+        }
+    },
+    {
+        "timestamp": 1484521200.0,
+        "diff": {
+            "paces": 7949.0,
+            "distance": 6678.881,
+            "deepsleep": 7680.0
+        }
+    },
+    {
+        "timestamp": 1484434800.0,
+        "diff": {
+            "paces": 2542.0,
+            "distance": 2156.72,
+            "deepsleep": 8640.0
+        }
+    },
+    {
+        "timestamp": 1484348400.0,
+        "diff": {
+            "paces": 5765.0,
+            "distance": 4825.641,
+            "deepsleep": 14220.0
+        }
+    },
+    {
+        "timestamp": 1484262000.0,
+        "diff": {
+            "paces": 6190.0,
+            "distance": 5260.2,
+            "deepsleep": 15241.0
+        }
+    },
+    {
+        "timestamp": 1484175600.0,
+        "diff": {
+            "paces": 8139.0,
+            "distance": 6806.611,
+            "deepsleep": 12480.0
+        }
+    },
+    {
+        "timestamp": 1484089200.0,
+        "diff": {
+            "paces": 7732.0,
+            "distance": 6430.57,
+            "deepsleep": 13140.0
+        }
+    },
+    {
+        "timestamp": 1484002800.0,
+        "diff": {
+            "paces": 7355.0,
+            "distance": 6152.381,
+            "deepsleep": 10080.0
+        }
+    },
+    {
+        "timestamp": 1483830000.0,
+        "diff": {
+            "paces": 20943.0,
+            "distance": 17136.38,
+            "deepsleep": 4500.0
+        }
+    },
+    {
+        "timestamp": 1483743600.0,
+        "diff": {
+            "paces": 18223.0,
+            "distance": 14676.94,
+            "deepsleep": 10500.0
+        }
+    },
+    {
+        "timestamp": 1483657200.0,
+        "diff": {
+            "paces": 15778.0,
+            "distance": 13011.45,
+            "deepsleep": 8640.0
+        }
+    },
+    {
+        "timestamp": 1483570800.0,
+        "diff": {
+            "paces": 14691.0,
+            "distance": 12157.03,
+            "deepsleep": 9540.0
+        }
+    },
+    {
+        "timestamp": 1483484400.0,
+        "diff": {
+            "paces": 17310.0,
+            "distance": 14475.23,
+            "deepsleep": 6720.0
+        }
+    },
+    {
+        "timestamp": 1483398000.0,
+        "diff": {
+            "paces": 10824.0,
+            "distance": 8947.869,
+            "deepsleep": 9840.0
+        }
+    },
+    {
+        "timestamp": 1483311600.0,
+        "diff": {
+            "paces": 7899.0,
+            "distance": 6658.96,
+            "deepsleep": 8700.0
+        }
+    },
+    {
+        "timestamp": 1483225200.0,
+        "diff": {
+            "paces": 1562.0,
+            "distance": 1300.43,
+            "deepsleep": 7740.0
+        }
+    },
+    {
+        "timestamp": 1483138800.0,
+        "diff": {
+            "paces": 5400.0,
+            "distance": 4636.289,
+            "deepsleep": 6420.0
+        }
+    },
+    {
+        "timestamp": 1483052400.0,
+        "diff": {
+            "paces": 4460.0,
+            "distance": 3745.74,
+            "deepsleep": 7440.0
+        }
+    },
+    {
+        "timestamp": 1482966000.0,
+        "diff": {
+            "paces": 6676.0,
+            "distance": 5681.471,
+            "deepsleep": 8460.0
+        }
+    },
+    {
+        "timestamp": 1482879600.0,
+        "diff": {
+            "paces": 1315.0,
+            "distance": 1088.41,
+            "deepsleep": 11040.0
+        }
+    },
+    {
+        "timestamp": 1482793200.0,
+        "diff": {
+            "paces": 4829.0,
+            "distance": 4030.41,
+            "deepsleep": 10680.0
+        }
+    },
+    {
+        "timestamp": 1482706800.0,
+        "diff": {
+            "paces": 2170.0,
+            "distance": 1792.8,
+            "deepsleep": 9900.0
+        }
+    },
+    {
+        "timestamp": 1482620400.0,
+        "diff": {
+            "paces": 2362.0,
+            "distance": 1967.17,
+            "deepsleep": 5400.0
+        }
+    },
+    {
+        "timestamp": 1482534000.0,
+        "diff": {
+            "paces": 4378.0,
+            "distance": 3688.999,
+            "deepsleep": 8040.0
+        }
+    },
+    {
+        "timestamp": 1482447600.0,
+        "diff": {
+            "paces": 5395.0,
+            "distance": 4419.452,
+            "deepsleep": 13920.0
+        }
+    },
+    {
+        "timestamp": 1482361200.0,
+        "diff": {
+            "paces": 3959.0,
+            "distance": 3271.531,
+            "deepsleep": 11100.0
+        }
+    },
+    {
+        "timestamp": 1482274800.0,
+        "diff": {
+            "paces": 5396.0,
+            "distance": 4501.75,
+            "deepsleep": 9839.0
+        }
+    },
+    {
+        "timestamp": 1482188400.0,
+        "diff": {
+            "paces": 6995.0,
+            "distance": 5815.547,
+            "deepsleep": 11940.0
+        }
+    },
+    {
+        "timestamp": 1482102000.0,
+        "diff": {
+            "paces": 8825.0,
+            "distance": 7420.4,
+            "deepsleep": 8280.0
+        }
+    },
+    {
+        "timestamp": 1482015600.0,
+        "diff": {
+            "paces": 2538.0,
+            "distance": 2076.13,
+            "deepsleep": 7260.0
+        }
+    },
+    {
+        "timestamp": 1481929200.0,
+        "diff": {
+            "paces": 2872.0,
+            "distance": 2369.51,
+            "deepsleep": 15540.0
+        }
+    },
+    {
+        "timestamp": 1481842800.0,
+        "diff": {
+            "paces": 9079.0,
+            "distance": 7547.481,
+            "deepsleep": 8700.0
+        }
+    },
+    {
+        "timestamp": 1481756400.0,
+        "diff": {
+            "paces": 10467.0,
+            "distance": 8736.239,
+            "deepsleep": 10620.0
+        }
+    },
+    {
+        "timestamp": 1481670000.0,
+        "diff": {
+            "paces": 9220.0,
+            "distance": 7678.999,
+            "deepsleep": 10680.0
+        }
+    },
+    {
+        "timestamp": 1481583600.0,
+        "diff": {
+            "paces": 8186.0,
+            "distance": 6822.519,
+            "deepsleep": 9180.0
+        }
+    },
+    {
+        "timestamp": 1481497200.0,
+        "diff": {
+            "paces": 7827.0,
+            "distance": 6612.203,
+            "deepsleep": 6540.0
+        }
+    },
+    {
+        "timestamp": 1481410800.0,
+        "diff": {
+            "paces": 1339.0,
+            "distance": 1109.13,
+            "deepsleep": 7320.0
+        }
+    },
+    {
+        "timestamp": 1481324400.0,
+        "diff": {
+            "paces": 8208.0,
+            "distance": 6766.899,
+            "deepsleep": 11040.0
+        }
+    },
+    {
+        "timestamp": 1481238000.0,
+        "diff": {
+            "paces": 7843.0,
+            "distance": 6568.412,
+            "deepsleep": 15840.0
+        }
+    },
+    {
+        "timestamp": 1481151600.0,
+        "diff": {
+            "paces": 10450.0,
+            "distance": 8827.593,
+            "deepsleep": 10320.0
+        }
+    },
+    {
+        "timestamp": 1481065200.0,
+        "diff": {
+            "paces": 8195.0,
+            "distance": 6862.641,
+            "deepsleep": 8760.0
+        }
+    },
+    {
+        "timestamp": 1480978800.0,
+        "diff": {
+            "paces": 6503.0,
+            "distance": 5431.918,
+            "deepsleep": 10920.0
+        }
+    },
+    {
+        "timestamp": 1480892400.0,
+        "diff": {
+            "paces": 7944.0,
+            "distance": 6657.05,
+            "deepsleep": 10140.0
+        }
+    },
+    {
+        "timestamp": 1480806000.0,
+        "diff": {
+            "paces": 1560.0,
+            "distance": 1297.5,
+            "deepsleep": 9780.0
+        }
+    },
+    {
+        "timestamp": 1480719600.0,
+        "diff": {
+            "paces": 3893.0,
+            "distance": 3243.111,
+            "deepsleep": 15660.0
+        }
+    },
+    {
+        "timestamp": 1480633200.0,
+        "diff": {
+            "paces": 4323.0,
+            "distance": 3576.439,
+            "deepsleep": 12900.0
+        }
+    },
+    {
+        "timestamp": 1480546800.0,
+        "diff": {
+            "paces": 10494.0,
+            "distance": 8776.718,
+            "deepsleep": 8880.0
+        }
+    },
+    {
+        "timestamp": 1480460400.0,
+        "diff": {
+            "paces": 8258.0,
+            "distance": 6907.388,
+            "deepsleep": 6540.0
+        }
+    },
+    {
+        "timestamp": 1480374000.0,
+        "diff": {
+            "paces": 11595.0,
+            "distance": 9741.891,
+            "deepsleep": 7320.0
+        }
+    },
+    {
+        "timestamp": 1480287600.0,
+        "diff": {
+            "paces": 7386.0,
+            "distance": 6160.709,
+            "deepsleep": 6840.0
+        }
+    },
+    {
+        "timestamp": 1480201200.0,
+        "diff": {
+            "paces": 5712.0,
+            "distance": 4781.601,
+            "deepsleep": 7740.0
+        }
+    },
+    {
+        "timestamp": 1480114800.0,
+        "diff": {
+            "paces": 5850.0,
+            "distance": 4802.581,
+            "deepsleep": 11580.0
+        }
+    },
+    {
+        "timestamp": 1480028400.0,
+        "diff": {
+            "paces": 6155.0,
+            "distance": 5085.438,
+            "deepsleep": 7140.0
+        }
+    },
+    {
+        "timestamp": 1479942000.0,
+        "diff": {
+            "paces": 6256.0,
+            "distance": 5190.912,
+            "deepsleep": 8340.0
+        }
+    },
+    {
+        "timestamp": 1479855600.0,
+        "diff": {
+            "paces": 750.0,
+            "distance": 622.49,
+            "deepsleep": 4800.0
+        }
+    },
+    {
+        "timestamp": 1479769200.0,
+        "diff": {
+            "paces": 14300.0,
+            "distance": 12183.08,
+            "deepsleep": 3360.0
+        }
+    },
+    {
+        "timestamp": 1479682800.0,
+        "diff": {
+            "paces": 6597.0,
+            "distance": 5494.2,
+            "deepsleep": 6600.0
+        }
+    },
+    {
+        "timestamp": 1479596400.0,
+        "diff": {
+            "paces": 4444.0,
+            "distance": 3705.689,
+            "deepsleep": 8640.0
+        }
+    },
+    {
+        "timestamp": 1479510000.0,
+        "diff": {
+            "paces": 4839.0,
+            "distance": 3978.729,
+            "deepsleep": 13440.0
+        }
+    },
+    {
+        "timestamp": 1479423600.0,
+        "diff": {
+            "paces": 9328.0,
+            "distance": 7907.04,
+            "deepsleep": 12540.0
+        }
+    },
+    {
+        "timestamp": 1479337200.0,
+        "diff": {
+            "paces": 8243.0,
+            "distance": 6887.629,
+            "deepsleep": 6000.0
+        }
+    },
+    {
+        "timestamp": 1479250800.0,
+        "diff": {
+            "paces": 12116.0,
+            "distance": 10077.78,
+            "deepsleep": 9240.0
+        }
+    },
+    {
+        "timestamp": 1479164400.0,
+        "diff": {
+            "paces": 11378.0,
+            "distance": 9452.477,
+            "deepsleep": 9600.0
+        }
+    },
+    {
+        "timestamp": 1479078000.0,
+        "diff": {
+            "paces": 6386.0,
+            "distance": 5287.551,
+            "deepsleep": 8640.0
+        }
+    },
+    {
+        "timestamp": 1478991600.0,
+        "diff": {
+            "paces": 4285.0,
+            "distance": 3582.61,
+            "deepsleep": 13260.0
+        }
+    },
+    {
+        "timestamp": 1478905200.0,
+        "diff": {
+            "paces": 3922.0,
+            "distance": 3200.21,
+            "deepsleep": 10560.0
+        }
+    },
+    {
+        "timestamp": 1478818800.0,
+        "diff": {
+            "paces": 8690.0,
+            "distance": 7043.769,
+            "deepsleep": 7680.0
+        }
+    },
+    {
+        "timestamp": 1478732400.0,
+        "diff": {
+            "paces": 9944.0,
+            "distance": 8295.129,
+            "deepsleep": 9480.0
+        }
+    },
+    {
+        "timestamp": 1478646000.0,
+        "diff": {
+            "paces": 11834.0,
+            "distance": 9693.209,
+            "deepsleep": 9780.0
+        }
+    },
+    {
+        "timestamp": 1478559600.0,
+        "diff": {
+            "paces": 16066.0,
+            "distance": 13315.95,
+            "deepsleep": 9900.0
+        }
+    },
+    {
+        "timestamp": 1478473200.0,
+        "diff": {
+            "paces": 12424.0,
+            "distance": 10303.14,
+            "deepsleep": 6540.0
+        }
+    },
+    {
+        "timestamp": 1478386800.0,
+        "diff": {
+            "paces": 7444.0,
+            "distance": 6222.112,
+            "deepsleep": 8160.0
+        }
+    },
+    {
+        "timestamp": 1478300400.0,
+        "diff": {
+            "paces": 7665.0,
+            "distance": 6373.112,
+            "deepsleep": 11340.0
+        }
+    },
+    {
+        "timestamp": 1478214000.0,
+        "diff": {
+            "paces": 10453.0,
+            "distance": 8778.213,
+            "deepsleep": 11760.0
+        }
+    },
+    {
+        "timestamp": 1478127600.0,
+        "diff": {
+            "paces": 12888.0,
+            "distance": 10852.6,
+            "deepsleep": 5820.0
+        }
+    },
+    {
+        "timestamp": 1478041200.0,
+        "diff": {
+            "paces": 6732.0,
+            "distance": 5635.02,
+            "deepsleep": 10080.0
+        }
+    },
+    {
+        "timestamp": 1477954800.0,
+        "diff": {
+            "paces": 1245.0,
+            "distance": 1022.79,
+            "deepsleep": 7200.0
+        }
+    },
+    {
+        "timestamp": 1477868400.0,
+        "diff": {
+            "paces": 6370.0,
+            "distance": 5275.92,
+            "deepsleep": 11820.0
+        }
+    },
+    {
+        "timestamp": 1477778400.0,
+        "diff": {
+            "paces": 769.0,
+            "distance": 633.17,
+            "deepsleep": 14159.0
+        }
+    },
+    {
+        "timestamp": 1477692000.0,
+        "diff": {
+            "paces": 6410.0,
+            "distance": 5291.059,
+            "deepsleep": 13740.0
+        }
+    },
+    {
+        "timestamp": 1477605600.0,
+        "diff": {
+            "paces": 9535.0,
+            "distance": 7892.82,
+            "deepsleep": 15600.0
+        }
+    },
+    {
+        "timestamp": 1477519200.0,
+        "diff": {
+            "paces": 8073.0,
+            "distance": 6741.79,
+            "deepsleep": 10320.0
+        }
+    },
+    {
+        "timestamp": 1477432800.0,
+        "diff": {
+            "paces": 6749.0,
+            "distance": 5587.27,
+            "deepsleep": 8640.0
+        }
+    },
+    {
+        "timestamp": 1477346400.0,
+        "diff": {
+            "paces": 8371.0,
+            "distance": 6860.35,
+            "deepsleep": 8160.0
+        }
+    },
+    {
+        "timestamp": 1477260000.0,
+        "diff": {
+            "paces": 10014.0,
+            "distance": 8287.34,
+            "deepsleep": 7380.0
+        }
+    },
+    {
+        "timestamp": 1477173600.0,
+        "diff": {
+            "paces": 3067.0,
+            "distance": 2517.031,
+            "deepsleep": 9540.0
+        }
+    },
+    {
+        "timestamp": 1477087200.0,
+        "diff": {
+            "paces": 9109.0,
+            "distance": 7211.493,
+            "deepsleep": 10080.0
+        }
+    },
+    {
+        "timestamp": 1477000800.0,
+        "diff": {
+            "paces": 6291.0,
+            "distance": 5039.012,
+            "deepsleep": 14940.0
+        }
+    }
+]
