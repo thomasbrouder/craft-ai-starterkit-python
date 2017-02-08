@@ -5,8 +5,7 @@ import json
 ## 1) Connect to craftai api
 config = {
     "owner": CRAFT_OWNER,
-    "token": CRAFT_TOKEN,
-    "url" : CRAFT_URL,
+    "token": CRAFT_TOKEN
 }
 client = craftai.CraftAIClient(config)
 

@@ -13,7 +13,7 @@ The end goal: improve the _sleep_ of the user based on its _historical sleep dat
 - Download or clone the [sources from GitHub](https://github.com/craft-ai/craft-ai-starterkit-python),
 - Install [Python](https://www.python.org/downloads/) on your computer (version >=3.5 is recommended),
 - Install the **craft ai** python client using `pip` by running `pip install --upgrade craft-ai` in a terminal.
-- in this directory, create a `.env` file setting the following variables:
+- in this directory, fill the `env.py` file setting the following variables:
     - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc/python#1---retrieve-your-credentials),
     - `CRAFT_OWNER` define the **owner** of the craft ai agents that will be created
 
