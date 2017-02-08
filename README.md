@@ -4,9 +4,9 @@
 
 [**craft ai** _AI-as-a-service_](http://craft.ai) enables developers to create Apps and Things that adapt to each user. To go beyond useless dashboards and spammy notifications, **craft ai** learns how users behave to automate recurring tasks, make personalized recommendations, or detect anomalies.
 
-This repository hosts a fully working application, in a **Personal Health Analysis** context, integrating [**craft ai**](http://craft.ai) written in Python using [**craft ai** official Python client](https://pypi.python.org/pypi?:action=display&name=craft-ai).
+This repository hosts a fully working application, in a **Personal Wellness Analysis** context, integrating [**craft ai**](http://craft.ai) written in Python using [**craft ai** official Python client](https://pypi.python.org/pypi?:action=display&name=craft-ai).
 
-The end goal: improve the _deep sleep_ time of the user based on its _number of pace_ and _travaled distance_ during the day. Using **craft ai**, this simple application learns how well the user can sleep regarding to its day activity, measured by a connected object such as a watch.
+The end goal: improve the _sleep_ of the user based on its _historical sleep data_. We have several days data containing _details_ about his day and the time he slept consequently after this day during the night. Using **craft ai**, this simple application learns how well the user can sleep regarding to his day data. We want to inform the user how well he may sleep at night regarding to he used to sleep after a similar day.
 
 ## Setup ##
 
@@ -32,22 +32,27 @@ python main.py
 
 ### What do next ? ###
 
-Now that you know how to compute your decision tree, you are able to complete the initial goal: predict the user's sleep quality.
+Now that you know how to compute your decision tree, you are able to complete the initial goal: predict the user's **sleep time**.
 
-You can use the devices input to add context operations in real time and compute a decision when the context changes that can be used, in conjuction with its confidence, to encourage the user to move more or not.
+You can add context operations in real time, day after day, and compute a decision when the context changes that can be used, in conjuction with its confidence, to encourage the user to go to bed at a certain hour in order to have the best night possible.
 
 ## About the dataset ##
 
-This starter kit uses real data anonymized and extracted from a personal connected watch owned by a **craft ai** team member.
+This starter kit uses real data anonymized and extracted from a personal connected watch owned by a **craft ai** team member. The data is stored in `sleep_data.csv`. Each line corresponds to the day details and the following night sleep. The features are:
+
+* `date` the date of the day
+* `day_off` day is off or not
+* `next_day_off` sleep at home or not
+* `sleep_at_home` sleep at home or not
+* `sleep_start` hour at which he started to sleep
+* `timezone` timezone for `sleep_start` hour
+* `sleep` sleep time during the night
 
 ### Data preparation ###
 
 > The pre-treated data are already computed and available for this example.
 
-We only use the paces done and the distance traveled during the day before the predicted night, because they are the cleanest and more relevant features from our dataset.
-For that, we merge on the date the two original datasets: `activities.csv` and `sleep.csv`.
-
-The data is treated and then output by the script `prepare.py`. The cleaned data is already provided in the `data` folder but you can output it again by running:
+The data can be treated and then output by the script `prepare.py`. The cleaned data is already provided in the `data` folder but you can output it again by running:
 ```console
 python prepare.py
 ```
