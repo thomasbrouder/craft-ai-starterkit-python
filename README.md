@@ -12,10 +12,11 @@ The end goal: improve the _sleep_ of the user based on its _historical sleep dat
 
 - Download or clone the [sources from GitHub](https://github.com/craft-ai/craft-ai-starterkit-python),
 - Install [Python](https://www.python.org/downloads/) on your computer (version >=3.5 is recommended),
-- Install the **craft ai** python client using `pip` by running `pip install --upgrade craft-ai` in a terminal.
-- in this directory, fill the `env.py` file setting the following variables:
+- Install the dependancies including **craft ai** python client, using `pip` by running `pip install -r requirements.txt` in the cloned or downloaded repository, from a terminal.
+- in this directory, fill a `.env` file setting the following variables:
     - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc/python#1---retrieve-your-credentials),
     - `CRAFT_OWNER` define the **owner** of the craft ai agents that will be created
+    - `CRAFT_URL` define the **api url** of craft ai, default `https://beta.craft.ai`
 
 ## Run ##
 
@@ -27,7 +28,7 @@ The following will:
 4. take a few decisions.
 
 ```console
-python main.py
+python src/main.py
 ```
 
 ### What do next ? ###
@@ -52,13 +53,13 @@ This starter kit uses real data anonymized and extracted from a personal connect
 
 > The pre-treated data are already computed and available for this example.
 
-The data can be treated and then output by the script `prepare.py`. The cleaned data is already provided in the `data` folder but you can output it again by running:
+The data can be treated and then output by the script `src/prepare.py`. The cleaned data is already provided in the `data` folder but you can output it again by running:
 ```console
-python prepare.py
+python src/prepare.py
 ```
 
 The result will be set in `data/clean_data.json`.
 
-You can check out `prepare.py` to see what we've done and make your own preparation.
+You can check out `src/prepare.py` to see what we've done and make your own preparation.
 
 > The **craft ai** user documentation can be found at <https://beta.craft.ai/doc> and technical questions can be sent by email at [support@craft.ai]('mailto:support@craft.ai').
