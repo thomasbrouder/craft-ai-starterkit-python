@@ -1,12 +1,9 @@
 from craftai import client as craftai
-from env import *
 import json
+import settings
 
 ## 1) Connect to craftai api
-config = {
-    "owner": CRAFT_OWNER,
-    "token": CRAFT_TOKEN
-}
+config = settings.CRAFT_CFG
 client = craftai.CraftAIClient(config)
 
 ## 2) Create the agent
