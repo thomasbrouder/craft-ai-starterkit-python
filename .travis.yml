@@ -1,0 +1,14 @@
+language: python
+
+python: '3.5'
+
+install:
+  - pip install --upgrade pip
+  - pip install -r requirements.txt
+
+script: python src/main.py
+
+notifications:
+  slack: craft-ai:ZNnQErHJhw40oKmphy3fNGza
+  email:
+  - ops@craft.ai

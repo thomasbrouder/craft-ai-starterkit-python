@@ -3,7 +3,7 @@ from datetime import datetime
 import json
 
 # Load the dataset
-data = pd.read_csv('../data/sleep_data.csv')
+data = pd.read_csv('data/sleep_data.csv')
 
 # Convert date into timestamp
 data["timestamp"] = data.apply(lambda x: datetime.strptime(x['date'], '%Y-%m-%d').timestamp(), axis=1).astype('int64')
@@ -29,6 +29,6 @@ for index, row in data.iterrows():
     })
 
 # Output
-with open('../data/clean_data.json', 'w') as outfile:
+with open('data/clean_data.json', 'w') as outfile:
     json.dump(context_list, outfile, indent = 3)
-print("Saved to ../data/clean_data.json")
+print("Saved to data/clean_data.json")

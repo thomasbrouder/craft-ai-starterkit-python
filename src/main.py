@@ -43,7 +43,7 @@ print("Agent", agent["id"], "has successfully been created")
 
 ## 3) Load and send the historical data
 context_list = []
-with open("../data/clean_data.json") as data_file:
+with open("data/clean_data.json") as data_file:
     context_list = json.load(data_file)
 
 client.add_operations(agent_id, context_list)
