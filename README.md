@@ -6,7 +6,7 @@
 
 This repository hosts a fully working application, in a **Personal Wellness Analysis** context, integrating [**craft ai**](http://craft.ai) written in Python using [**craft ai** official Python client](https://pypi.python.org/pypi?:action=display&name=craft-ai).
 
-The end goal: improve the _sleep_ of the user based on its _historical sleep data_. We have several days data containing _details_ about his day and the time he slept consequently after this day during the night. Using **craft ai**, this simple application learns how well the user can sleep regarding to his day data. We want to inform the user how well he may sleep at night regarding to he used to sleep after a similar day.
+The end goal: improve the _sleep_ of the user based on its _historical sleep data_. We have several days data containing _details_ about his day and the time he slept consequently after this day during the night. Using **craft ai**, this simple application learns how well the user can sleep regarding to his day data. We want to inform the user how well he may sleep at night regarding to how he used to sleep after a similar day.
 
 ## Setup ##
 
