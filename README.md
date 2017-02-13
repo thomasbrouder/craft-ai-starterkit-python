@@ -8,6 +8,10 @@ This repository hosts a fully working application, in a **Personal Wellness Anal
 
 The end goal: improve the _sleep_ of the user based on its _historical sleep data_. We have several days data containing _details_ about his day and the time he slept consequently after this day during the night. Using **craft ai**, this simple application learns how well the user can sleep regarding to his day data. We want to inform the user how well he may sleep at night regarding to he used to sleep after a similar day.
 
+## Tutorial ##
+
+Take a look at the associated [tutorial available on our blog](http://www.craft.ai/blog/)!
+
 ## Setup ##
 
 - Download or clone the [sources from GitHub](https://github.com/craft-ai/craft-ai-starterkit-python),
@@ -41,13 +45,13 @@ You can add context operations in real time, day after day, and compute a decisi
 
 This starter kit uses real data anonymized and extracted from a personal connected watch owned by a **craft ai** team member. The data is stored in `sleep_data.csv`. Each line corresponds to the day details and the following night sleep. The features are:
 
-* `date` the date of the day
-* `day_off` day is off or not
-* `next_day_off` sleep at home or not
-* `sleep_at_home` sleep at home or not
-* `sleep_start` hour at which he started to sleep
-* `timezone` timezone for `sleep_start` hour
-* `sleep` sleep time during the night
+* `date` - the date of the day
+* `timezone` timezone
+* `day_off` - whether or not the user worked this day
+* `next_day_off` - whether or not the user work the next day
+* `sleep_at_home` - whether or not the user plans to sleep at home
+* `sleep_start` - hour at which he started to sleep
+* `sleep` - sleep time during the night (hours)
 
 ### Data preparation ###
 
