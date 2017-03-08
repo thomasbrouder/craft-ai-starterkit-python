@@ -19,7 +19,8 @@ Take a look at the associated [tutorial available on our blog](http://www.craft.
 - Install the dependencies including **craft ai** python client, using `pip` by running `pip install -r requirements.txt` in the cloned or downloaded repository, from a terminal.
 - in this directory, fill a `.env` file setting the following variables:
     - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc/python#1---retrieve-your-credentials),
-    - `CRAFT_OWNER` define the **owner** of the craft ai agents that will be created
+    - `CRAFT_PROJECT` define the **project** of the craft ai agents that will be created
+    - `CRAFT_OWNER` define the **owner** of the project
     - `CRAFT_URL` define the **api url** of craft ai, default `https://beta.craft.ai`
 
 ## Run ##
