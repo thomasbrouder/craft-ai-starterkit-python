@@ -1,3 +1,3 @@
 pandas==0.18.0
 python-dotenv==0.5.1
--e git+git@github.com:craft-ai/craft-ai-client-python.git@feature/project#egg=craft-ai
+craft-ai==0.4.12
