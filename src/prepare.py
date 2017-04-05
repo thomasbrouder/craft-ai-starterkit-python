@@ -18,7 +18,7 @@ context_list = []
 for index, row in data.iterrows():
     context_list.append({
         "timestamp" : row["timestamp"],
-        "diff" : {
+        "context" : {
             "day_off" : row["day_off"],
             "next_day_off" : row["next_day_off"],
             "sleep_at_home" : row["sleep_at_home"],
