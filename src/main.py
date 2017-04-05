@@ -61,5 +61,5 @@ context = {
     "sleep_start" : 23.5,            # start to sleep at 23:30:00
     "timezone" : "+02:00"            # timezone for sleep_start
 }
-resp = client.decide(decision_tree, context)
-print("The anticipated sleep time is:", resp["decision"]["sleep"], "hours")
+decision = client.decide(decision_tree, context)
+print("The anticipated sleep time is:", decision["output"]["sleep"]["predicted_value"], "hours")
