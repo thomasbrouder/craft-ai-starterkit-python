@@ -2,7 +2,7 @@
 
 [![Build](https://img.shields.io/travis/craft-ai/craft-ai-starterkit-python/master.svg?style=flat-square)](https://travis-ci.org/craft-ai/craft-ai-starterkit-python) [![License](https://img.shields.io/badge/license-BSD--3--Clause-42358A.svg?style=flat-square)](LICENSE)
 
-[**craft ai** _AI-as-a-service_](http://craft.ai) enables developers to create Apps and Things that adapt to each user. To go beyond useless dashboards and spammy notifications, **craft ai** learns how users behave to automate recurring tasks, make personalized recommendations, or detect anomalies.
+[**craft ai** _AI-as-a-service_](http://craft.ai) enables your services to learn every day: provide a personalized experience to each user and automate complex tasks.
 
 This repository hosts a fully working application, in a **Personal Wellness Analysis** context, integrating [**craft ai**](http://craft.ai) written in Python using [**craft ai** official Python client](https://pypi.python.org/pypi?:action=display&name=craft-ai).
 
