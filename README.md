@@ -33,7 +33,7 @@ The following will:
 python src/main.py
 ```
 
-### What do next ? ###
+### What do next? ###
 
 Now that you know how to compute your decision tree, you are able to complete the initial goal: predict the user's **sleep time**.
 
